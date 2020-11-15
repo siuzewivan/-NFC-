@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="act1">Журнал преподавателя</string>
+    <string name="act2">Регистрация студентов/предметов</string>
+    <string name="act3">Занятие</string>
+    <string name="act4">Просмотр БД</string>
+    <string name="btnClose">Закрыть</string>
+</resources>
